@@ -1,6 +1,6 @@
-======================
+----------------------
 BASIC analyse data
-======================
+----------------------
 This repository stores all data used by the BASIC algorithm along with the relevant analysis codes. 
 All codes are written in MATLAB format, and the stored data are saved as matrices in MATLAB's .mat format.
 Specifically, the /BASIC/+os/ folder contains self-developed MATLAB functions that 
