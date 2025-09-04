@@ -25,9 +25,9 @@ basic_oa  basic_wc  basic_sc  basic_spec ST_oa ST_wc ST_sc ST_spec l2lt_xco2
 coarse_aod lt_du lt_ss pred_aerosol_type tccon_code  pred_BASIC_xco2
     43      44     45          46            47              48
 aerosol_type index('bc','du','oc','so','ss','water')
-                1    2    3    4    5     6
+                     1    2    3    4    5     6
 site_code index('XH','JS','HF','TK','RJ')
-             1    2    3    4    5
+                  1    2    3    4    5
 ----------------------
 
 ----------------------
