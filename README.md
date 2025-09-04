@@ -11,9 +11,9 @@ forward model spectral fitting results, aerosol optical properties, microphysica
 All matrices are stored in the format of N rows by 48 columns. 
 The information represented by each column is as follows.
 
-========================================================================================
-                                  data colum name
-========================================================================================
+----------------------
+data colum name                                
+----------------------
 ||std_xco2 tcc_xco2 BASIC_xco2 my_flag l2_flag sounding_id month ST_xco2 aerosol_type 
 ||     1        2      3       4        5         6        7        8      9
 ||BASIC_aod  l2std_total_aod  ice_aod  wt_aod  st_aod  cloud_flag r0  sigma
@@ -28,7 +28,7 @@ The information represented by each column is as follows.
 ||                1    2    3    4    5     6
 ||site_code index('XH','JS','HF','TK','RJ')
 ||             1    2    3    4    5
-========================================================================================
+----------------------
 
 ========================
 Algorithm retrieve code
